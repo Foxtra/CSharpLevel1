@@ -15,6 +15,12 @@ namespace guessNumber
         public Form2()
         {
             InitializeComponent();
+            this.Text = "Введите число";
+        }
+
+        public int userAnswer
+        {
+            get { return int.Parse(tboxAnswer.Text); }
         }
     }
 }

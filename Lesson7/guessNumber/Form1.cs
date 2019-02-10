@@ -24,6 +24,7 @@ namespace guessNumber
     {
         randNumber rnum;
         int max;
+        Form2 f2;
         public Form1()
         {
             max = 100;
@@ -36,12 +37,16 @@ namespace guessNumber
             lblStepText.Text = "Счёт ходов:";
             MessageBox.Show("Вводите в поле число пока не угадаете. Нажимайте кнопку \"Проверить\" " +
                 "чтобы узнать результат попытки. ", "Правила");
+            tboxUserAnswer.Visible = false;
+            f2 = new Form2();
+            f2.Show();
         }
 
         private void btnCheck_Click(object sender, EventArgs e)
         {
             bool check;
-            MessageBox.Show(rnum.CheckValue(out check, int.Parse(tboxUserAnswer.Text)));
+            //MessageBox.Show(rnum.CheckValue(out check, int.Parse(tboxUserAnswer.Text)));
+            MessageBox.Show(rnum.CheckValue(out check, f2.userAnswer));
             if (check)
             {
                 rnum.Reset(max);
