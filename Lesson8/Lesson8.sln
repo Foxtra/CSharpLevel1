@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelieveOrNotBelieve", "Beli
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PutEnglishWords", "PutEnglishWords\PutEnglishWords.csproj", "{13443B88-158B-42DC-A38B-0A6FE5AC407F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertCSVtoXML", "ConvertCSVtoXML\ConvertCSVtoXML.csproj", "{3697912C-F0B3-4FBF-B354-EC5383AD8E60}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{13443B88-158B-42DC-A38B-0A6FE5AC407F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13443B88-158B-42DC-A38B-0A6FE5AC407F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13443B88-158B-42DC-A38B-0A6FE5AC407F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3697912C-F0B3-4FBF-B354-EC5383AD8E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3697912C-F0B3-4FBF-B354-EC5383AD8E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3697912C-F0B3-4FBF-B354-EC5383AD8E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3697912C-F0B3-4FBF-B354-EC5383AD8E60}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
