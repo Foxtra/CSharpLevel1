@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.271
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WF_Udvoitel", "WF_Udvoitel\WF_Udvoitel.csproj", "{830B5EA7-39B4-4870-8AB8-0D4665740373}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "guessNumber", "guessNumber\guessNumber.csproj", "{BD4B807F-7EFC-4AEC-BB95-BE2A7BC180D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{830B5EA7-39B4-4870-8AB8-0D4665740373}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830B5EA7-39B4-4870-8AB8-0D4665740373}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830B5EA7-39B4-4870-8AB8-0D4665740373}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830B5EA7-39B4-4870-8AB8-0D4665740373}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD4B807F-7EFC-4AEC-BB95-BE2A7BC180D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD4B807F-7EFC-4AEC-BB95-BE2A7BC180D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD4B807F-7EFC-4AEC-BB95-BE2A7BC180D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD4B807F-7EFC-4AEC-BB95-BE2A7BC180D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {95207C40-57F5-42CB-9135-5DB6EDFA9469}
+	EndGlobalSection
+EndGlobal
