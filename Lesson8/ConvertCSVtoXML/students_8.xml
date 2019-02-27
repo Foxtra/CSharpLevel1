@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Students>
+  <StudentIndo>
+    <Name>Василий</Name>
+    <Surname>Пупкин</Surname>
+    <University>СПбГУ</University>
+    <Faculty>Литературных гениев</Faculty>
+    <Department>Любителей почитать</Department>
+    <Age>18</Age>
+    <Course>1</Course>
+    <Group>1901</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Артемий</Name>
+    <Surname>Николаев</Surname>
+    <University>СПбГУКА</University>
+    <Faculty>Ридиотехники и радиосистем</Faculty>
+    <Department>Радиотехники</Department>
+    <Age>19</Age>
+    <Course>2</Course>
+    <Group>1823</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Николай</Name>
+    <Surname>Сергеев</Surname>
+    <University>СПбГАСУ</University>
+    <Faculty>Строительства</Faculty>
+    <Department>Гражданского строительства</Department>
+    <Age>20</Age>
+    <Course>3</Course>
+    <Group>1758</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Артём</Name>
+    <Surname>Захаров</Surname>
+    <University>СПбПУ</University>
+    <Faculty>Техничекий</Faculty>
+    <Department>Прекрасная</Department>
+    <Age>21</Age>
+    <Course>3</Course>
+    <Group>1764</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Лариса</Name>
+    <Surname>Долина</Surname>
+    <University>ИТБИД</University>
+    <Faculty>Коммуникативного дизайна</Faculty>
+    <Department>Кафедра искусств</Department>
+    <Age>18</Age>
+    <Course>1</Course>
+    <Group>1905</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Алиса</Name>
+    <Surname>Салий</Surname>
+    <University>СПХФУ</University>
+    <Faculty>Промышленных технологий лекарств</Faculty>
+    <Department>Промышленной технологии лекарственных препаратов</Department>
+    <Age>22</Age>
+    <Course>5</Course>
+    <Group>3956</Group>
+    <City>Санкт-Петербург</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Василиса</Name>
+    <Surname>Прекрасная</Surname>
+    <University>МГУ</University>
+    <Faculty>Красоты и здоровья</Faculty>
+    <Department>Принцесс</Department>
+    <Age>23</Age>
+    <Course>6</Course>
+    <Group>1337</Group>
+    <City>Москва</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Роман</Name>
+    <Surname>Важный</Surname>
+    <University>МФТИ</University>
+    <Faculty>Важности физики</Faculty>
+    <Department>Физико-математическая</Department>
+    <Age>22</Age>
+    <Course>5</Course>
+    <Group>3645</Group>
+    <City>Москва</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Владимир</Name>
+    <Surname>Игродельский</Surname>
+    <University>МАИ</University>
+    <Faculty>Авиации</Faculty>
+    <Department>Авиационного строения</Department>
+    <Age>22</Age>
+    <Course>5</Course>
+    <Group>8800</Group>
+    <City>Москва</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Святостав</Name>
+    <Surname>Петрович</Surname>
+    <University>ГАИ</University>
+    <Faculty>Полиции</Faculty>
+    <Department>Автополиции</Department>
+    <Age>19</Age>
+    <Course>1</Course>
+    <Group>2280</Group>
+    <City>Краснодар</City>
+  </StudentIndo>
+  <StudentIndo>
+    <Name>Игорь</Name>
+    <Surname>Младший</Surname>
+    <University>ТРУИ</University>
+    <Faculty>Тварищества</Faculty>
+    <Department>Помощи</Department>
+    <Age>20</Age>
+    <Course>2</Course>
+    <Group>6475</Group>
+    <City>Сочи</City>
+  </StudentIndo>
+</Students>
